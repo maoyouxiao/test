@@ -1,3 +1,3 @@
 # test
 Just a test repository.
-Fuck you
+Test stash
